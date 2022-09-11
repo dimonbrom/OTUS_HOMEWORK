@@ -1,0 +1,1570 @@
+[
+    {
+        "name": "Lolita Lynn",
+        "gender": "female",
+        "address": "389 Neptune Avenue, Belfair, Iowa, 6116",
+        "age": 34,
+        "books": [
+            {
+                "Title": "Fundamentals of Wavelets",
+                "Author": "Goswami, Jaideva",
+                "Genre": "signal_processing",
+                "Pages": "228"
+            },
+            {
+                "Title": "Data Smart",
+                "Author": "Foreman, John",
+                "Genre": "data_science",
+                "Pages": "235"
+            },
+            {
+                "Title": "God Created the Integers",
+                "Author": "Hawking, Stephen",
+                "Genre": "mathematics",
+                "Pages": "197"
+            },
+            {
+                "Title": "Superfreakonomics",
+                "Author": "Dubner, Stephen",
+                "Genre": "economics",
+                "Pages": "179"
+            },
+            {
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Pages": "197"
+            },
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            }
+        ]
+    },
+    {
+        "name": "Tonia Hurst",
+        "gender": "female",
+        "address": "917 Terrace Place, Urbana, Idaho, 684",
+        "age": 31,
+        "books": [
+            {
+                "Title": "Data Smart",
+                "Author": "Foreman, John",
+                "Genre": "data_science",
+                "Pages": "235"
+            },
+            {
+                "Title": "God Created the Integers",
+                "Author": "Hawking, Stephen",
+                "Genre": "mathematics",
+                "Pages": "197"
+            },
+            {
+                "Title": "Superfreakonomics",
+                "Author": "Dubner, Stephen",
+                "Genre": "economics",
+                "Pages": "179"
+            },
+            {
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Pages": "197"
+            },
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            }
+        ]
+    },
+    {
+        "name": "Brooks Bright",
+        "gender": "male",
+        "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
+        "age": 39,
+        "books": [
+            {
+                "Title": "God Created the Integers",
+                "Author": "Hawking, Stephen",
+                "Genre": "mathematics",
+                "Pages": "197"
+            },
+            {
+                "Title": "Superfreakonomics",
+                "Author": "Dubner, Stephen",
+                "Genre": "economics",
+                "Pages": "179"
+            },
+            {
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Pages": "197"
+            },
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            }
+        ]
+    },
+    {
+        "name": "Kathrine Sharp",
+        "gender": "female",
+        "address": "989 Huron Street, Talpa, Utah, 7018",
+        "age": 40,
+        "books": [
+            {
+                "Title": "Superfreakonomics",
+                "Author": "Dubner, Stephen",
+                "Genre": "economics",
+                "Pages": "179"
+            },
+            {
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Pages": "197"
+            },
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            }
+        ]
+    },
+    {
+        "name": "Shawn Harrell",
+        "gender": "female",
+        "address": "534 Hinsdale Street, Albany, Palau, 3291",
+        "age": 34,
+        "books": [
+            {
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Pages": "197"
+            },
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            }
+        ]
+    },
+    {
+        "name": "Amy Casey",
+        "gender": "female",
+        "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
+        "age": 31,
+        "books": [
+            {
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            }
+        ]
+    },
+    {
+        "name": "Lorena Mejia",
+        "gender": "female",
+        "address": "614 High Street, Blanford, Maryland, 2776",
+        "age": 24,
+        "books": [
+            {
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217"
+            },
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            }
+        ]
+    },
+    {
+        "name": "Allyson Wilkins",
+        "gender": "female",
+        "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
+        "age": 29,
+        "books": [
+            {
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            }
+        ]
+    },
+    {
+        "name": "Mays Reed",
+        "gender": "male",
+        "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
+        "age": 38,
+        "books": [
+            {
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
+                "Genre": "signal_processing",
+                "Pages": "241"
+            },
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            }
+        ]
+    },
+    {
+        "name": "Katherine Mayer",
+        "gender": "female",
+        "address": "640 Prescott Place, Curtice, Kansas, 3395",
+        "age": 27,
+        "books": [
+            {
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240"
+            },
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            }
+        ]
+    },
+    {
+        "name": "Kelly Byers",
+        "gender": "female",
+        "address": "865 Revere Place, Homeland, Arizona, 232",
+        "age": 35,
+        "books": [
+            {
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230"
+            },
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            }
+        ]
+    },
+    {
+        "name": "Schwartz Carey",
+        "gender": "male",
+        "address": "860 Centre Street, Hiwasse, Nevada, 2819",
+        "age": 32,
+        "books": [
+            {
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            }
+        ]
+    },
+    {
+        "name": "Kay Beasley",
+        "gender": "female",
+        "address": "358 Sutton Street, Bellamy, Ohio, 8845",
+        "age": 34,
+        "books": [
+            {
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234"
+            },
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            }
+        ]
+    },
+    {
+        "name": "Robbins Gordon",
+        "gender": "male",
+        "address": "610 Langham Street, Boykin, Guam, 6688",
+        "age": 23,
+        "books": [
+            {
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240"
+            },
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            }
+        ]
+    },
+    {
+        "name": "Hillary Bauer",
+        "gender": "female",
+        "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
+        "age": 39,
+        "books": [
+            {
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238"
+            },
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            }
+        ]
+    },
+    {
+        "name": "Ruiz Phelps",
+        "gender": "male",
+        "address": "836 Troutman Street, Harborton, Kentucky, 4030",
+        "age": 36,
+        "books": [
+            {
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            }
+        ]
+    },
+    {
+        "name": "Carolina Bryant",
+        "gender": "female",
+        "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
+        "age": 31,
+        "books": [
+            {
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236"
+            },
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            }
+        ]
+    },
+    {
+        "name": "Sosa Lee",
+        "gender": "male",
+        "address": "364 Holly Street, Omar, California, 5140",
+        "age": 31,
+        "books": [
+            {
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242"
+            },
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            }
+        ]
+    },
+    {
+        "name": "Lorna Scott",
+        "gender": "female",
+        "address": "878 Marconi Place, Gerton, Alabama, 845",
+        "age": 24,
+        "books": [
+            {
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180"
+            },
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            }
+        ]
+    },
+    {
+        "name": "Bernard Holden",
+        "gender": "male",
+        "address": "674 Pine Street, Conestoga, Mississippi, 4727",
+        "age": 32,
+        "books": [
+            {
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197"
+            },
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            }
+        ]
+    },
+    {
+        "name": "Craft Shields",
+        "gender": "male",
+        "address": "586 Java Street, Catherine, Arkansas, 1445",
+        "age": 31,
+        "books": [
+            {
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232"
+            },
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            }
+        ]
+    },
+    {
+        "name": "Mara English",
+        "gender": "female",
+        "address": "324 Herkimer Court, Boomer, Delaware, 5367",
+        "age": 23,
+        "books": [
+            {
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248"
+            },
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            }
+        ]
+    },
+    {
+        "name": "Fisher Levy",
+        "gender": "male",
+        "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
+        "age": 30,
+        "books": [
+            {
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol II",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            }
+        ]
+    },
+    {
+        "name": "Cecelia Snyder",
+        "gender": "female",
+        "address": "236 Anchorage Place, Odessa, Michigan, 6314",
+        "age": 25,
+        "books": [
+            {
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol II",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Wealth of Nations, The",
+                "Author": "Smith, Adam",
+                "Genre": "economics",
+                "Pages": "175"
+            }
+        ]
+    },
+    {
+        "name": "Nina Kaufman",
+        "gender": "female",
+        "address": "538 Ashford Street, Boling, West Virginia, 7840",
+        "age": 22,
+        "books": [
+            {
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233"
+            },
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol II",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Wealth of Nations, The",
+                "Author": "Smith, Adam",
+                "Genre": "economics",
+                "Pages": "175"
+            },
+            {
+                "Title": "Pillars of the Earth, The",
+                "Author": "Follett, Ken",
+                "Genre": "fiction",
+                "Pages": "176"
+            }
+        ]
+    },
+    {
+        "name": "Dillard Branch",
+        "gender": "male",
+        "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
+        "age": 37,
+        "books": [
+            {
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234"
+            },
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol II",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Wealth of Nations, The",
+                "Author": "Smith, Adam",
+                "Genre": "economics",
+                "Pages": "175"
+            },
+            {
+                "Title": "Pillars of the Earth, The",
+                "Author": "Follett, Ken",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Mein Kampf",
+                "Author": "Hitler, Adolf",
+                "Genre": "nonfiction",
+                "Pages": "212"
+            }
+        ]
+    },
+    {
+        "name": "Dyer Bartlett",
+        "gender": "male",
+        "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
+        "age": 33,
+        "books": [
+            {
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol II",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Wealth of Nations, The",
+                "Author": "Smith, Adam",
+                "Genre": "economics",
+                "Pages": "175"
+            },
+            {
+                "Title": "Pillars of the Earth, The",
+                "Author": "Follett, Ken",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Mein Kampf",
+                "Author": "Hitler, Adolf",
+                "Genre": "nonfiction",
+                "Pages": "212"
+            },
+            {
+                "Title": "Tao of Physics, The",
+                "Author": "Capra, Fritjof",
+                "Genre": "science",
+                "Pages": "179"
+            }
+        ]
+    },
+    {
+        "name": "Tyler Dotson",
+        "gender": "male",
+        "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
+        "age": 20,
+        "books": [
+            {
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol I",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Complete Sherlock Holmes, The - Vol II",
+                "Author": "Doyle, Arthur Conan",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Wealth of Nations, The",
+                "Author": "Smith, Adam",
+                "Genre": "economics",
+                "Pages": "175"
+            },
+            {
+                "Title": "Pillars of the Earth, The",
+                "Author": "Follett, Ken",
+                "Genre": "fiction",
+                "Pages": "176"
+            },
+            {
+                "Title": "Mein Kampf",
+                "Author": "Hitler, Adolf",
+                "Genre": "nonfiction",
+                "Pages": "212"
+            },
+            {
+                "Title": "Tao of Physics, The",
+                "Author": "Capra, Fritjof",
+                "Genre": "science",
+                "Pages": "179"
+            },
+            {
+                "Title": "Surely You're Joking Mr Feynman",
+                "Author": "Feynman, Richard",
+                "Genre": "science",
+                "Pages": "198"
+            }
+        ]
+    }
+]
