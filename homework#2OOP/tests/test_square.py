@@ -30,13 +30,6 @@ def test_sum_of_the_areas_positive1():
     assert square.add_area(rectangle) == 34
 
 
-def test_sum_of_the_areas_positive2():
-    square = Square(6.5)
-    circle = Circle(2)
-    square.add_area(circle)
-    assert square.add_area(circle) != 0
-
-
 def test_sum_of_the_areas_positive3():
     square = Square(9)
     triangle = Triangle(5, 7, 9)
@@ -48,4 +41,3 @@ def test_sum_of_the_areas_negative(default_figure):
     square = Square(3)
     with pytest.raises(ValueError):
         square.add_area(default_figure)
-fdfdfdfdvdv 

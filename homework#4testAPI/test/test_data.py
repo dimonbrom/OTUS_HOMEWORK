@@ -5,14 +5,14 @@ from conftest import *
 
 
 def get_list_dog_response():
-    with open("C:/Users/shilo/OTUS_HOMEWORK/homework#4testAPI/message.json", "r") as f:
+    with open("C:/Users/stak-/OTUS_HOMEWORK/homework#4testAPI/message.json", "r") as f:
         responce = json.load(f)
         return responce
 
 
 excepted = get_list_dog_response()
 
-with open("C:/Users/shilo/OTUS_HOMEWORK/homework#4testAPI/message.json", "r") as f:
+with open("C:/Users/stak-/OTUS_HOMEWORK/homework#4testAPI/message.json", "r") as f:
     response = json.load(f)
 
 l_dog = [el for el in response['message']]

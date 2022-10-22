@@ -50,13 +50,6 @@ def test_sum_of_the_areas_positive1():
     assert triangle.add_area(square) == 27.9
 
 
-def test_sum_of_the_areas_positive2():
-    triangle = Triangle(6, 7, 8)
-    circle = Circle(3)
-    triangle.add_area(circle)
-    assert triangle.add_area(circle) != 0
-
-
 def test_sum_of_the_areas_positive3():
     rectangle = Rectangle(4, 2)
     triangle = Triangle(5, 7, 9)

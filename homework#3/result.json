@@ -6,52 +6,52 @@
         "age": 34,
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228"
+                "Title": "Fundamentals of Wavelets,\"Goswami, Jaideva\",signal_processing,228,Wiley",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Genre": "data_science",
-                "Pages": "235"
+                "Title": "Data Smart,\"Foreman, John\",data_science,235,Wiley",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Genre": "mathematics",
-                "Pages": "197"
+                "Title": "God Created the Integers,\"Hawking, Stephen\",mathematics,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Superfreakonomics",
-                "Author": "Dubner, Stephen",
-                "Genre": "economics",
-                "Pages": "179"
+                "Title": "Superfreakonomics,\"Dubner, Stephen\",economics,179,HarperCollins",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Orientalism",
-                "Author": "Said, Edward",
-                "Genre": "history",
-                "Pages": "197"
+                "Title": "Orientalism,\"Said, Edward\",history,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Nature of Statistical Learning Theory, The",
-                "Author": "Vapnik, Vladimir",
-                "Genre": "data_science",
-                "Pages": "230"
+                "Title": "\"Nature of Statistical Learning Theory, The\",\"Vapnik, Vladimir\",data_science,230,Springer",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -62,52 +62,52 @@
         "age": 31,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Genre": "data_science",
-                "Pages": "235"
+                "Title": "Data Smart,\"Foreman, John\",data_science,235,Wiley",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Genre": "mathematics",
-                "Pages": "197"
+                "Title": "God Created the Integers,\"Hawking, Stephen\",mathematics,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Superfreakonomics",
-                "Author": "Dubner, Stephen",
-                "Genre": "economics",
-                "Pages": "179"
+                "Title": "Superfreakonomics,\"Dubner, Stephen\",economics,179,HarperCollins",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Orientalism",
-                "Author": "Said, Edward",
-                "Genre": "history",
-                "Pages": "197"
+                "Title": "Orientalism,\"Said, Edward\",history,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Nature of Statistical Learning Theory, The",
-                "Author": "Vapnik, Vladimir",
-                "Genre": "data_science",
-                "Pages": "230"
+                "Title": "\"Nature of Statistical Learning Theory, The\",\"Vapnik, Vladimir\",data_science,230,Springer",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -118,52 +118,52 @@
         "age": 39,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Genre": "mathematics",
-                "Pages": "197"
+                "Title": "God Created the Integers,\"Hawking, Stephen\",mathematics,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Superfreakonomics",
-                "Author": "Dubner, Stephen",
-                "Genre": "economics",
-                "Pages": "179"
+                "Title": "Superfreakonomics,\"Dubner, Stephen\",economics,179,HarperCollins",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Orientalism",
-                "Author": "Said, Edward",
-                "Genre": "history",
-                "Pages": "197"
+                "Title": "Orientalism,\"Said, Edward\",history,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Nature of Statistical Learning Theory, The",
-                "Author": "Vapnik, Vladimir",
-                "Genre": "data_science",
-                "Pages": "230"
+                "Title": "\"Nature of Statistical Learning Theory, The\",\"Vapnik, Vladimir\",data_science,230,Springer",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -174,46 +174,46 @@
         "age": 40,
         "books": [
             {
-                "Title": "Superfreakonomics",
-                "Author": "Dubner, Stephen",
-                "Genre": "economics",
-                "Pages": "179"
+                "Title": "Superfreakonomics,\"Dubner, Stephen\",economics,179,HarperCollins",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Orientalism",
-                "Author": "Said, Edward",
-                "Genre": "history",
-                "Pages": "197"
+                "Title": "Orientalism,\"Said, Edward\",history,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Nature of Statistical Learning Theory, The",
-                "Author": "Vapnik, Vladimir",
-                "Genre": "data_science",
-                "Pages": "230"
+                "Title": "\"Nature of Statistical Learning Theory, The\",\"Vapnik, Vladimir\",data_science,230,Springer",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -230,40 +230,40 @@
         "age": 34,
         "books": [
             {
-                "Title": "Orientalism",
-                "Author": "Said, Edward",
-                "Genre": "history",
-                "Pages": "197"
+                "Title": "Orientalism,\"Said, Edward\",history,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Nature of Statistical Learning Theory, The",
-                "Author": "Vapnik, Vladimir",
-                "Genre": "data_science",
-                "Pages": "230"
+                "Title": "\"Nature of Statistical Learning Theory, The\",\"Vapnik, Vladimir\",data_science,230,Springer",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -272,10 +272,10 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -286,34 +286,34 @@
         "age": 31,
         "books": [
             {
-                "Title": "Nature of Statistical Learning Theory, The",
-                "Author": "Vapnik, Vladimir",
-                "Genre": "data_science",
-                "Pages": "230"
+                "Title": "\"Nature of Statistical Learning Theory, The\",\"Vapnik, Vladimir\",data_science,230,Springer",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -322,16 +322,16 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -342,28 +342,28 @@
         "age": 24,
         "books": [
             {
-                "Title": "Integration of the Indian States",
-                "Author": "Menon, V P",
-                "Genre": "history",
-                "Pages": "217"
+                "Title": "Integration of the Indian States,\"Menon, V P\",history,217,Orient Blackswan",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -372,22 +372,22 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -398,22 +398,22 @@
         "age": 29,
         "books": [
             {
-                "Title": "Drunkard's Walk, The",
-                "Author": "Mlodinow, Leonard",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "\"Drunkard's Walk, The\",\"Mlodinow, Leonard\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -422,28 +422,28 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -454,16 +454,16 @@
         "age": 38,
         "books": [
             {
-                "Title": "Image Processing & Mathematical Morphology",
-                "Author": "Shih, Frank",
-                "Genre": "signal_processing",
-                "Pages": "241"
+                "Title": "Image Processing & Mathematical Morphology,\"Shih, Frank\",signal_processing,241,CRC",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -472,34 +472,34 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -510,10 +510,10 @@
         "age": 27,
         "books": [
             {
-                "Title": "How to Think Like Sherlock Holmes",
-                "Author": "Konnikova, Maria",
-                "Genre": "psychology",
-                "Pages": "240"
+                "Title": "How to Think Like Sherlock Holmes,\"Konnikova, Maria\",psychology,240,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
                 "Title": "Data Scientists at Work",
@@ -522,40 +522,40 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -572,46 +572,46 @@
                 "Pages": "230"
             },
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -622,52 +622,52 @@
         "age": 32,
         "books": [
             {
-                "Title": "Slaughterhouse Five",
-                "Author": "Vonnegut, Kurt",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "Slaughterhouse Five,\"Vonnegut, Kurt\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -678,52 +678,52 @@
         "age": 34,
         "books": [
             {
-                "Title": "Birth of a Theorem",
-                "Author": "Villani, Cedric",
-                "Genre": "mathematics",
-                "Pages": "234"
+                "Title": "Birth of a Theorem,\"Villani, Cedric\",mathematics,234,Bodley Head",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -734,52 +734,52 @@
         "age": 23,
         "books": [
             {
-                "Title": "Structure & Interpretation of Computer Programs",
-                "Author": "Sussman, Gerald",
-                "Genre": "computer_science",
-                "Pages": "240"
+                "Title": "Structure & Interpretation of Computer Programs,\"Sussman, Gerald\",computer_science,240,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -790,52 +790,52 @@
         "age": 39,
         "books": [
             {
-                "Title": "Age of Wrath, The",
-                "Author": "Eraly, Abraham",
-                "Genre": "history",
-                "Pages": "238"
+                "Title": "\"Age of Wrath, The\",\"Eraly, Abraham\",history,238,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -846,52 +846,52 @@
         "age": 36,
         "books": [
             {
-                "Title": "Trial, The",
-                "Author": "Kafka, Frank",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Trial, The\",\"Kafka, Frank\",fiction,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -902,52 +902,52 @@
         "age": 31,
         "books": [
             {
-                "Title": "Statistical Decision Theory'",
-                "Author": "Pratt, John",
-                "Genre": "data_science",
-                "Pages": "236"
+                "Title": "Statistical Decision Theory',\"Pratt, John\",data_science,236,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -958,52 +958,52 @@
         "age": 31,
         "books": [
             {
-                "Title": "Data Mining Handbook",
-                "Author": "Nisbet, Robert",
-                "Genre": "data_science",
-                "Pages": "242"
+                "Title": "Data Mining Handbook,\"Nisbet, Robert\",data_science,242,Apress",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1014,52 +1014,52 @@
         "age": 24,
         "books": [
             {
-                "Title": "New Machiavelli, The",
-                "Author": "Wells, H. G.",
-                "Genre": "fiction",
-                "Pages": "180"
+                "Title": "\"New Machiavelli, The\",\"Wells, H. G.\",fiction,180,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1070,52 +1070,52 @@
         "age": 32,
         "books": [
             {
-                "Title": "Physics & Philosophy",
-                "Author": "Heisenberg, Werner",
-                "Genre": "science",
-                "Pages": "197"
+                "Title": "Physics & Philosophy,\"Heisenberg, Werner\",science,197,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1126,52 +1126,52 @@
         "age": 31,
         "books": [
             {
-                "Title": "Making Software",
-                "Author": "Oram, Andy",
-                "Genre": "computer_science",
-                "Pages": "232"
+                "Title": "Making Software,\"Oram, Andy\",computer_science,232,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1182,52 +1182,52 @@
         "age": 23,
         "books": [
             {
-                "Title": "Analysis, Vol I",
-                "Author": "Tao, Terence",
-                "Genre": "mathematics",
-                "Pages": "248"
+                "Title": "\"Analysis, Vol I\",\"Tao, Terence\",mathematics,248,HBA",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1238,52 +1238,52 @@
         "age": 30,
         "books": [
             {
-                "Title": "Machine Learning for Hackers",
-                "Author": "Conway, Drew",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Machine Learning for Hackers,\"Conway, Drew\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol II",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol II\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1294,52 +1294,52 @@
         "age": 25,
         "books": [
             {
-                "Title": "Signal and the Noise, The",
-                "Author": "Silver, Nate",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "\"Signal and the Noise, The\",\"Silver, Nate\",data_science,233,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol II",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol II\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Wealth of Nations, The",
-                "Author": "Smith, Adam",
-                "Genre": "economics",
-                "Pages": "175"
+                "Title": "\"Wealth of Nations, The\",\"Smith, Adam\",economics,175,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1350,52 +1350,52 @@
         "age": 22,
         "books": [
             {
-                "Title": "Python for Data Analysis",
-                "Author": "McKinney, Wes",
-                "Genre": "data_science",
-                "Pages": "233"
+                "Title": "Python for Data Analysis,\"McKinney, Wes\",data_science,233,O'Reilly",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol II",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol II\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Wealth of Nations, The",
-                "Author": "Smith, Adam",
-                "Genre": "economics",
-                "Pages": "175"
+                "Title": "\"Wealth of Nations, The\",\"Smith, Adam\",economics,175,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Pillars of the Earth, The",
-                "Author": "Follett, Ken",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Pillars of the Earth, The\",\"Follett, Ken\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1406,52 +1406,52 @@
         "age": 37,
         "books": [
             {
-                "Title": "Introduction to Algorithms",
-                "Author": "Cormen, Thomas",
-                "Genre": "computer_science",
-                "Pages": "234"
+                "Title": "Introduction to Algorithms,\"Cormen, Thomas\",computer_science,234,MIT Press",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol II",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol II\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Wealth of Nations, The",
-                "Author": "Smith, Adam",
-                "Genre": "economics",
-                "Pages": "175"
+                "Title": "\"Wealth of Nations, The\",\"Smith, Adam\",economics,175,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Pillars of the Earth, The",
-                "Author": "Follett, Ken",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Pillars of the Earth, The\",\"Follett, Ken\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Mein Kampf",
-                "Author": "Hitler, Adolf",
-                "Genre": "nonfiction",
-                "Pages": "212"
+                "Title": "Mein Kampf,\"Hitler, Adolf\",nonfiction,212,Rupa",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1462,52 +1462,52 @@
         "age": 33,
         "books": [
             {
-                "Title": "Beautiful and the Damned, The",
-                "Author": "Deb, Siddhartha",
-                "Genre": "nonfiction",
-                "Pages": "198"
+                "Title": "\"Beautiful and the Damned, The\",\"Deb, Siddhartha\",nonfiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol II",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol II\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Wealth of Nations, The",
-                "Author": "Smith, Adam",
-                "Genre": "economics",
-                "Pages": "175"
+                "Title": "\"Wealth of Nations, The\",\"Smith, Adam\",economics,175,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Pillars of the Earth, The",
-                "Author": "Follett, Ken",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Pillars of the Earth, The\",\"Follett, Ken\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Mein Kampf",
-                "Author": "Hitler, Adolf",
-                "Genre": "nonfiction",
-                "Pages": "212"
+                "Title": "Mein Kampf,\"Hitler, Adolf\",nonfiction,212,Rupa",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Tao of Physics, The",
-                "Author": "Capra, Fritjof",
-                "Genre": "science",
-                "Pages": "179"
+                "Title": "\"Tao of Physics, The\",\"Capra, Fritjof\",science,179,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     },
@@ -1518,52 +1518,52 @@
         "age": 20,
         "books": [
             {
-                "Title": "Outsider, The",
-                "Author": "Camus, Albert",
-                "Genre": "fiction",
-                "Pages": "198"
+                "Title": "\"Outsider, The\",\"Camus, Albert\",fiction,198,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol I",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol I\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Complete Sherlock Holmes, The - Vol II",
-                "Author": "Doyle, Arthur Conan",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Complete Sherlock Holmes, The - Vol II\",\"Doyle, Arthur Conan\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Wealth of Nations, The",
-                "Author": "Smith, Adam",
-                "Genre": "economics",
-                "Pages": "175"
+                "Title": "\"Wealth of Nations, The\",\"Smith, Adam\",economics,175,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Pillars of the Earth, The",
-                "Author": "Follett, Ken",
-                "Genre": "fiction",
-                "Pages": "176"
+                "Title": "\"Pillars of the Earth, The\",\"Follett, Ken\",fiction,176,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Mein Kampf",
-                "Author": "Hitler, Adolf",
-                "Genre": "nonfiction",
-                "Pages": "212"
+                "Title": "Mein Kampf,\"Hitler, Adolf\",nonfiction,212,Rupa",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Tao of Physics, The",
-                "Author": "Capra, Fritjof",
-                "Genre": "science",
-                "Pages": "179"
+                "Title": "\"Tao of Physics, The\",\"Capra, Fritjof\",science,179,Penguin",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             },
             {
-                "Title": "Surely You're Joking Mr Feynman",
-                "Author": "Feynman, Richard",
-                "Genre": "science",
-                "Pages": "198"
+                "Title": "Surely You're Joking Mr Feynman,\"Feynman, Richard\",science,198,Random House",
+                "Author": null,
+                "Genre": null,
+                "Pages": null
             }
         ]
     }

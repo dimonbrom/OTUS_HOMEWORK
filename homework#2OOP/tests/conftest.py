@@ -1,6 +1,5 @@
 import pytest
 
-from scr.Circle import Circle
 from scr.Square import Square
 from scr.Triangle import Triangle
 from scr.Rectangle import Rectangle
