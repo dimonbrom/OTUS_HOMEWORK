@@ -34,7 +34,7 @@ def wait_elements(browser, selector, time, wait_type):
     try:
         return WebDriverWait(browser, time).until(wait_type((By.CSS_SELECTOR, selector)))
     except TimeoutException:
-        raise AssertionError(f'Явное ожидание {wait_type} не сработало в течении {time} секунд')
+        raise AssertionError(f'явное ожидание {wait_type} не сработало в течении {time} секунд')
 
 
 
