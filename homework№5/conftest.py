@@ -19,7 +19,7 @@ def pytest_addoption(parser):
     )
 
     parser.addoption(
-        '--Url', default='http://192.168.0.19:8081', help='base url'
+        '--url', default='http://192.168.0.19:8081', help='base url'
     )
 
 
@@ -28,7 +28,7 @@ def browser(request):
     browser_name = request.config.getoption('--browser')
     headless = request.config.getoption('--headless')
     directory = request.config.getoption('--directory')
-    base_url = request.config.getoption('--Url')
+    base_url = request.config.getoption('--url')
     if browser_name == 'chrome':
         chrome_options = ChromeOptions()
         if headless:

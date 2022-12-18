@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.action_chains import ActionChains
 
-username = 'test@mail.ru'
+username = 'Test@mail.ru'
 slide_second = ".swiper-slide-active[data-swiper-slide-index='1']"
 authorization_prompt = ".alert"
 image_Sony = "[data-swiper-slide-index='2'].swiper-slide-active"

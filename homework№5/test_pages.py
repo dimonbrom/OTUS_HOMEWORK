@@ -1,5 +1,5 @@
 from conftest import *
-from locators import *
+from locator import *
 import time
 
 
