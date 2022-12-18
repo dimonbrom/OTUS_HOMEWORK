@@ -16,11 +16,6 @@ add_l = "[data-original-title='Add to Wish List']"
 my_list = '#wishlist-total .hidden-sm'
 cameras = "//*[text()='Cameras']"
 group_list = ".list-group-item"
-catalog = ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras',
-              'MP3 Players']
-Share_l = ['facebook', 'twitter', 'print', 'pinterest_share', 'gmail', 'linkedin', 'more']
-select_loc = [i for i in Share_l]
-list_field = ['First Name\n', 'Last Name\n', 'E-mail\n', 'nTelephone\n', 'nPassword\n', 'nPassword Confirm\n']
 dropdown_list = '.atc_s.addthis_button_compact'
 header_admin = '.panel-heading'
 invalid_data = '.alert'
@@ -28,6 +23,11 @@ locator_username = "[name='username']"
 button_next = '.btn'
 reset_on_emeil = '#input-email'
 page_registrator = '.form-horizontal'
+catalog = ['Desktops', 'Laptops & Notebooks', 'Components', 'Tablets', 'Software', 'Phones & PDAs', 'Cameras',
+              'MP3 Players']
+Share_l = ['facebook', 'twitter', 'print', 'pinterest_share', 'gmail', 'linkedin', 'more']
+select_loc = [i for i in Share_l]
+list_field = ['First Name\n', 'Last Name\n', 'E-mail\n', 'nTelephone\n', 'nPassword\n', 'nPassword Confirm\n']
 
 
 def wait_elements(browser, selector, time, wait_type):
