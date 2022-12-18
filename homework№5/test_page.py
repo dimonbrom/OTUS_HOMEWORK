@@ -5,7 +5,7 @@ import time
 
 def test_home_page(browser):
     browser.get(browser.base_url)
-    """Проверяем текстовку Вкладки"""
+    """Проверяем текстовку вкладки"""
     WebDriverWait(browser, 2).until(EC.title_is('Your Store'))
     """Ожидаем появления второго слайда"""
     wait_elements(browser=browser, selector=slide_second, time=4, wait_type=EC.visibility_of_element_located)
